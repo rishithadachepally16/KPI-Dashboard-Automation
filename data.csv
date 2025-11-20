@@ -1,0 +1,5 @@
+Date,Employee_ID,Tasks_Completed,Hours_Worked,Errors_Found
+01-11-2025,101,12,8,1
+01-11-2025,102,10,7,0
+02-11-2025,101,15,9,0
+02-11-2025,102,8,6,1
