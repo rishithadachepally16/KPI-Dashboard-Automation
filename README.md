@@ -1,13 +1,21 @@
-# KPI-Dashboard-Automation
+# 📊 KPI Dashboard Automation (Python)
 
-This project demonstrates KPI monitoring and data validation using Python. It validates datasets, calculates KPIs like efficiency and error rate, detects anomalies, and exports processed data for visualization in Excel or Power BI dashboards.
+This project demonstrates data validation, KPI monitoring, anomaly detection, and automated reporting using Python, Pandas, and NumPy. It simulates real-world Data Operations & Technical Support Analyst workflows.
 
-## Features
-- Data cleaning and validation
-- KPI calculations (Efficiency, Error Rate)
-- Anomaly detection
-- Export processed data for dashboards
+## 🔧 Skills Showcased
+- Data validation & cleansing  
+- KPI calculation (Efficiency, Error Rate)  
+- Anomaly detection  
+- Summary statistics generation  
+- Automated CSV report creation  
+- Python (Pandas, NumPy)  
+- Data Operations workflow simulation  
 
-## Tools Used
-- Python (Pandas, NumPy)
-- Excel or Power BI (optional for visualization)
+## 📁 Project Files
+- `kpi_analysis.py` → Main analysis script  
+- `data.csv` → Input dataset  
+- `processed_data.csv` → Output after validation, KPI calculation, and anomaly detection  
+
+## ▶️ How to Run
+```bash
+python kpi_analysis.py
